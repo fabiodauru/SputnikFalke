@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SputnikFalke
 - 👀 I’m interested in Webdevelopement
-- 🌱 I’m currently learning NextJS and React
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fabio.dauru@gmx.ch
 
